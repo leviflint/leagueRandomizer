@@ -124,6 +124,7 @@ body {
   font-size: 2em;
   padding: 10px 15px;
   margin-top: 5vh;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 770px) {
