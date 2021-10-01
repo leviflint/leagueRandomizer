@@ -18,7 +18,7 @@
       },
       "image": {
         "full": "Aatrox.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Aatrox.png",
         "group": "champion",
         "x": 0,
         "y": 0,
@@ -68,7 +68,7 @@
       },
       "image": {
         "full": "Ahri.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Ahri.png",
         "group": "champion",
         "x": 48,
         "y": 0,
@@ -118,7 +118,7 @@
       },
       "image": {
         "full": "Akali.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Akali.png",
         "group": "champion",
         "x": 96,
         "y": 0,
@@ -167,7 +167,7 @@
       },
       "image": {
         "full": "Akshan.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Akshan.png",
         "group": "champion",
         "x": 144,
         "y": 0,
@@ -217,7 +217,7 @@
       },
       "image": {
         "full": "Alistar.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Alistar.png",
         "group": "champion",
         "x": 192,
         "y": 0,
@@ -267,7 +267,7 @@
       },
       "image": {
         "full": "Amumu.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Amumu.png",
         "group": "champion",
         "x": 240,
         "y": 0,
@@ -317,7 +317,7 @@
       },
       "image": {
         "full": "Anivia.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Anivia.png",
         "group": "champion",
         "x": 288,
         "y": 0,
@@ -367,7 +367,7 @@
       },
       "image": {
         "full": "Annie.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Annie.png",
         "group": "champion",
         "x": 336,
         "y": 0,
@@ -416,7 +416,7 @@
       },
       "image": {
         "full": "Aphelios.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Aphelios.png",
         "group": "champion",
         "x": 384,
         "y": 0,
@@ -465,7 +465,7 @@
       },
       "image": {
         "full": "Ashe.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Ashe.png",
         "group": "champion",
         "x": 432,
         "y": 0,
@@ -515,7 +515,7 @@
       },
       "image": {
         "full": "AurelionSol.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/AurelionSol.png",
         "group": "champion",
         "x": 0,
         "y": 48,
@@ -564,7 +564,7 @@
       },
       "image": {
         "full": "Azir.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Azir.png",
         "group": "champion",
         "x": 48,
         "y": 48,
@@ -614,7 +614,7 @@
       },
       "image": {
         "full": "Bard.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Bard.png",
         "group": "champion",
         "x": 96,
         "y": 48,
@@ -664,7 +664,7 @@
       },
       "image": {
         "full": "Blitzcrank.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Blitzcrank.png",
         "group": "champion",
         "x": 144,
         "y": 48,
@@ -714,7 +714,7 @@
       },
       "image": {
         "full": "Brand.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Brand.png",
         "group": "champion",
         "x": 192,
         "y": 48,
@@ -763,7 +763,7 @@
       },
       "image": {
         "full": "Braum.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Braum.png",
         "group": "champion",
         "x": 240,
         "y": 48,
@@ -813,7 +813,7 @@
       },
       "image": {
         "full": "Caitlyn.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Caitlyn.png",
         "group": "champion",
         "x": 288,
         "y": 48,
@@ -862,7 +862,7 @@
       },
       "image": {
         "full": "Camille.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Camille.png",
         "group": "champion",
         "x": 336,
         "y": 48,
@@ -912,7 +912,7 @@
       },
       "image": {
         "full": "Cassiopeia.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Cassiopeia.png",
         "group": "champion",
         "x": 384,
         "y": 48,
@@ -961,7 +961,7 @@
       },
       "image": {
         "full": "Chogath.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Chogath.png",
         "group": "champion",
         "x": 432,
         "y": 48,
@@ -1011,7 +1011,7 @@
       },
       "image": {
         "full": "Corki.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Corki.png",
         "group": "champion",
         "x": 0,
         "y": 96,
@@ -1060,7 +1060,7 @@
       },
       "image": {
         "full": "Darius.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Darius.png",
         "group": "champion",
         "x": 48,
         "y": 96,
@@ -1110,7 +1110,7 @@
       },
       "image": {
         "full": "Diana.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Diana.png",
         "group": "champion",
         "x": 96,
         "y": 96,
@@ -1160,7 +1160,7 @@
       },
       "image": {
         "full": "Draven.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Draven.png",
         "group": "champion",
         "x": 144,
         "y": 96,
@@ -1209,7 +1209,7 @@
       },
       "image": {
         "full": "DrMundo.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/DrMundo.png",
         "group": "champion",
         "x": 192,
         "y": 96,
@@ -1259,7 +1259,7 @@
       },
       "image": {
         "full": "Ekko.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Ekko.png",
         "group": "champion",
         "x": 240,
         "y": 96,
@@ -1309,7 +1309,7 @@
       },
       "image": {
         "full": "Elise.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Elise.png",
         "group": "champion",
         "x": 288,
         "y": 96,
@@ -1359,7 +1359,7 @@
       },
       "image": {
         "full": "Evelynn.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Evelynn.png",
         "group": "champion",
         "x": 336,
         "y": 96,
@@ -1409,7 +1409,7 @@
       },
       "image": {
         "full": "Ezreal.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Ezreal.png",
         "group": "champion",
         "x": 384,
         "y": 96,
@@ -1459,7 +1459,7 @@
       },
       "image": {
         "full": "Fiddlesticks.png",
-        "sprite": "champion0.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Fiddlesticks.png",
         "group": "champion",
         "x": 432,
         "y": 96,
@@ -1509,7 +1509,7 @@
       },
       "image": {
         "full": "Fiora.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Fiora.png",
         "group": "champion",
         "x": 0,
         "y": 0,
@@ -1559,7 +1559,7 @@
       },
       "image": {
         "full": "Fizz.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Fizz.png",
         "group": "champion",
         "x": 48,
         "y": 0,
@@ -1609,7 +1609,7 @@
       },
       "image": {
         "full": "Galio.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Galio.png",
         "group": "champion",
         "x": 96,
         "y": 0,
@@ -1659,7 +1659,7 @@
       },
       "image": {
         "full": "Gangplank.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Gangplank.png",
         "group": "champion",
         "x": 144,
         "y": 0,
@@ -1708,7 +1708,7 @@
       },
       "image": {
         "full": "Garen.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Garen.png",
         "group": "champion",
         "x": 192,
         "y": 0,
@@ -1758,7 +1758,7 @@
       },
       "image": {
         "full": "Gnar.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Gnar.png",
         "group": "champion",
         "x": 240,
         "y": 0,
@@ -1808,7 +1808,7 @@
       },
       "image": {
         "full": "Gragas.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Gragas.png",
         "group": "champion",
         "x": 288,
         "y": 0,
@@ -1858,7 +1858,7 @@
       },
       "image": {
         "full": "Graves.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Graves.png",
         "group": "champion",
         "x": 336,
         "y": 0,
@@ -1907,7 +1907,7 @@
       },
       "image": {
         "full": "Gwen.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Gwen.png",
         "group": "champion",
         "x": 384,
         "y": 0,
@@ -1957,7 +1957,7 @@
       },
       "image": {
         "full": "Hecarim.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Hecarim.png",
         "group": "champion",
         "x": 432,
         "y": 0,
@@ -2007,7 +2007,7 @@
       },
       "image": {
         "full": "Heimerdinger.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Heimerdinger.png",
         "group": "champion",
         "x": 0,
         "y": 48,
@@ -2057,7 +2057,7 @@
       },
       "image": {
         "full": "Illaoi.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Illaoi.png",
         "group": "champion",
         "x": 48,
         "y": 48,
@@ -2107,7 +2107,7 @@
       },
       "image": {
         "full": "Irelia.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Irelia.png",
         "group": "champion",
         "x": 96,
         "y": 48,
@@ -2157,7 +2157,7 @@
       },
       "image": {
         "full": "Ivern.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Ivern.png",
         "group": "champion",
         "x": 144,
         "y": 48,
@@ -2207,7 +2207,7 @@
       },
       "image": {
         "full": "Janna.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Janna.png",
         "group": "champion",
         "x": 192,
         "y": 48,
@@ -2257,7 +2257,7 @@
       },
       "image": {
         "full": "JarvanIV.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/JarvanIV.png",
         "group": "champion",
         "x": 240,
         "y": 48,
@@ -2307,7 +2307,7 @@
       },
       "image": {
         "full": "Jax.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Jax.png",
         "group": "champion",
         "x": 288,
         "y": 48,
@@ -2357,7 +2357,7 @@
       },
       "image": {
         "full": "Jayce.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Jayce.png",
         "group": "champion",
         "x": 336,
         "y": 48,
@@ -2407,7 +2407,7 @@
       },
       "image": {
         "full": "Jhin.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Jhin.png",
         "group": "champion",
         "x": 384,
         "y": 48,
@@ -2457,7 +2457,7 @@
       },
       "image": {
         "full": "Jinx.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Jinx.png",
         "group": "champion",
         "x": 432,
         "y": 48,
@@ -2506,7 +2506,7 @@
       },
       "image": {
         "full": "Kaisa.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Kaisa.png",
         "group": "champion",
         "x": 0,
         "y": 96,
@@ -2555,7 +2555,7 @@
       },
       "image": {
         "full": "Kalista.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Kalista.png",
         "group": "champion",
         "x": 48,
         "y": 96,
@@ -2604,7 +2604,7 @@
       },
       "image": {
         "full": "Karma.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Karma.png",
         "group": "champion",
         "x": 96,
         "y": 96,
@@ -2654,7 +2654,7 @@
       },
       "image": {
         "full": "Karthus.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Karthus.png",
         "group": "champion",
         "x": 144,
         "y": 96,
@@ -2703,7 +2703,7 @@
       },
       "image": {
         "full": "Kassadin.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Kassadin.png",
         "group": "champion",
         "x": 192,
         "y": 96,
@@ -2753,7 +2753,7 @@
       },
       "image": {
         "full": "Katarina.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Katarina.png",
         "group": "champion",
         "x": 240,
         "y": 96,
@@ -2803,7 +2803,7 @@
       },
       "image": {
         "full": "Kayle.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Kayle.png",
         "group": "champion",
         "x": 288,
         "y": 96,
@@ -2853,7 +2853,7 @@
       },
       "image": {
         "full": "Kayn.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Kayn.png",
         "group": "champion",
         "x": 336,
         "y": 96,
@@ -2903,7 +2903,7 @@
       },
       "image": {
         "full": "Kennen.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Kennen.png",
         "group": "champion",
         "x": 384,
         "y": 96,
@@ -2953,7 +2953,7 @@
       },
       "image": {
         "full": "Khazix.png",
-        "sprite": "champion1.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Khazix.png",
         "group": "champion",
         "x": 432,
         "y": 96,
@@ -3002,7 +3002,7 @@
       },
       "image": {
         "full": "Kindred.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Kindred.png",
         "group": "champion",
         "x": 0,
         "y": 0,
@@ -3051,7 +3051,7 @@
       },
       "image": {
         "full": "Kled.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Kled.png",
         "group": "champion",
         "x": 48,
         "y": 0,
@@ -3101,7 +3101,7 @@
       },
       "image": {
         "full": "KogMaw.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/KogMaw.png",
         "group": "champion",
         "x": 96,
         "y": 0,
@@ -3151,7 +3151,7 @@
       },
       "image": {
         "full": "Leblanc.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Leblanc.png",
         "group": "champion",
         "x": 144,
         "y": 0,
@@ -3201,7 +3201,7 @@
       },
       "image": {
         "full": "LeeSin.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/LeeSin.png",
         "group": "champion",
         "x": 192,
         "y": 0,
@@ -3251,7 +3251,7 @@
       },
       "image": {
         "full": "Leona.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Leona.png",
         "group": "champion",
         "x": 240,
         "y": 0,
@@ -3301,7 +3301,7 @@
       },
       "image": {
         "full": "Lillia.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Lillia.png",
         "group": "champion",
         "x": 288,
         "y": 0,
@@ -3351,7 +3351,7 @@
       },
       "image": {
         "full": "Lissandra.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Lissandra.png",
         "group": "champion",
         "x": 336,
         "y": 0,
@@ -3400,7 +3400,7 @@
       },
       "image": {
         "full": "Lucian.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Lucian.png",
         "group": "champion",
         "x": 384,
         "y": 0,
@@ -3449,7 +3449,7 @@
       },
       "image": {
         "full": "Lulu.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Lulu.png",
         "group": "champion",
         "x": 432,
         "y": 0,
@@ -3499,7 +3499,7 @@
       },
       "image": {
         "full": "Lux.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Lux.png",
         "group": "champion",
         "x": 0,
         "y": 48,
@@ -3549,7 +3549,7 @@
       },
       "image": {
         "full": "Malphite.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Malphite.png",
         "group": "champion",
         "x": 48,
         "y": 48,
@@ -3599,7 +3599,7 @@
       },
       "image": {
         "full": "Malzahar.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Malzahar.png",
         "group": "champion",
         "x": 96,
         "y": 48,
@@ -3649,7 +3649,7 @@
       },
       "image": {
         "full": "Maokai.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Maokai.png",
         "group": "champion",
         "x": 144,
         "y": 48,
@@ -3699,7 +3699,7 @@
       },
       "image": {
         "full": "MasterYi.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/MasterYi.png",
         "group": "champion",
         "x": 192,
         "y": 48,
@@ -3749,7 +3749,7 @@
       },
       "image": {
         "full": "MissFortune.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/MissFortune.png",
         "group": "champion",
         "x": 240,
         "y": 48,
@@ -3798,7 +3798,7 @@
       },
       "image": {
         "full": "MonkeyKing.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/MonkeyKing.png",
         "group": "champion",
         "x": 288,
         "y": 48,
@@ -3848,7 +3848,7 @@
       },
       "image": {
         "full": "Mordekaiser.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Mordekaiser.png",
         "group": "champion",
         "x": 336,
         "y": 48,
@@ -3897,7 +3897,7 @@
       },
       "image": {
         "full": "Morgana.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Morgana.png",
         "group": "champion",
         "x": 384,
         "y": 48,
@@ -3947,7 +3947,7 @@
       },
       "image": {
         "full": "Nami.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Nami.png",
         "group": "champion",
         "x": 432,
         "y": 48,
@@ -3997,7 +3997,7 @@
       },
       "image": {
         "full": "Nasus.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Nasus.png",
         "group": "champion",
         "x": 0,
         "y": 96,
@@ -4047,7 +4047,7 @@
       },
       "image": {
         "full": "Nautilus.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Nautilus.png",
         "group": "champion",
         "x": 48,
         "y": 96,
@@ -4097,7 +4097,7 @@
       },
       "image": {
         "full": "Neeko.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Neeko.png",
         "group": "champion",
         "x": 96,
         "y": 96,
@@ -4147,7 +4147,7 @@
       },
       "image": {
         "full": "Nidalee.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Nidalee.png",
         "group": "champion",
         "x": 144,
         "y": 96,
@@ -4197,7 +4197,7 @@
       },
       "image": {
         "full": "Nocturne.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Nocturne.png",
         "group": "champion",
         "x": 192,
         "y": 96,
@@ -4247,7 +4247,7 @@
       },
       "image": {
         "full": "Nunu.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Nunu.png",
         "group": "champion",
         "x": 240,
         "y": 96,
@@ -4297,7 +4297,7 @@
       },
       "image": {
         "full": "Olaf.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Olaf.png",
         "group": "champion",
         "x": 288,
         "y": 96,
@@ -4347,7 +4347,7 @@
       },
       "image": {
         "full": "Orianna.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Orianna.png",
         "group": "champion",
         "x": 336,
         "y": 96,
@@ -4397,7 +4397,7 @@
       },
       "image": {
         "full": "Ornn.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Ornn.png",
         "group": "champion",
         "x": 384,
         "y": 96,
@@ -4447,7 +4447,7 @@
       },
       "image": {
         "full": "Pantheon.png",
-        "sprite": "champion2.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Pantheon.png",
         "group": "champion",
         "x": 432,
         "y": 96,
@@ -4497,7 +4497,7 @@
       },
       "image": {
         "full": "Poppy.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Poppy.png",
         "group": "champion",
         "x": 0,
         "y": 0,
@@ -4547,7 +4547,7 @@
       },
       "image": {
         "full": "Pyke.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Pyke.png",
         "group": "champion",
         "x": 48,
         "y": 0,
@@ -4597,7 +4597,7 @@
       },
       "image": {
         "full": "Qiyana.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Qiyana.png",
         "group": "champion",
         "x": 96,
         "y": 0,
@@ -4647,7 +4647,7 @@
       },
       "image": {
         "full": "Quinn.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Quinn.png",
         "group": "champion",
         "x": 144,
         "y": 0,
@@ -4697,7 +4697,7 @@
       },
       "image": {
         "full": "Rakan.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Rakan.png",
         "group": "champion",
         "x": 192,
         "y": 0,
@@ -4746,7 +4746,7 @@
       },
       "image": {
         "full": "Rammus.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Rammus.png",
         "group": "champion",
         "x": 240,
         "y": 0,
@@ -4796,7 +4796,7 @@
       },
       "image": {
         "full": "RekSai.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/RekSai.png",
         "group": "champion",
         "x": 288,
         "y": 0,
@@ -4845,7 +4845,7 @@
       },
       "image": {
         "full": "Rell.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Rell.png",
         "group": "champion",
         "x": 336,
         "y": 0,
@@ -4894,7 +4894,7 @@
       },
       "image": {
         "full": "Renekton.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Renekton.png",
         "group": "champion",
         "x": 384,
         "y": 0,
@@ -4944,7 +4944,7 @@
       },
       "image": {
         "full": "Rengar.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Rengar.png",
         "group": "champion",
         "x": 432,
         "y": 0,
@@ -4994,7 +4994,7 @@
       },
       "image": {
         "full": "Riven.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Riven.png",
         "group": "champion",
         "x": 0,
         "y": 48,
@@ -5044,7 +5044,7 @@
       },
       "image": {
         "full": "Rumble.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Rumble.png",
         "group": "champion",
         "x": 48,
         "y": 48,
@@ -5094,7 +5094,7 @@
       },
       "image": {
         "full": "Ryze.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Ryze.png",
         "group": "champion",
         "x": 96,
         "y": 48,
@@ -5144,7 +5144,7 @@
       },
       "image": {
         "full": "Samira.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Samira.png",
         "group": "champion",
         "x": 144,
         "y": 48,
@@ -5193,7 +5193,7 @@
       },
       "image": {
         "full": "Sejuani.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Sejuani.png",
         "group": "champion",
         "x": 192,
         "y": 48,
@@ -5243,7 +5243,7 @@
       },
       "image": {
         "full": "Senna.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Senna.png",
         "group": "champion",
         "x": 240,
         "y": 48,
@@ -5293,7 +5293,7 @@
       },
       "image": {
         "full": "Seraphine.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Seraphine.png",
         "group": "champion",
         "x": 288,
         "y": 48,
@@ -5343,7 +5343,7 @@
       },
       "image": {
         "full": "Sett.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Sett.png",
         "group": "champion",
         "x": 336,
         "y": 48,
@@ -5393,7 +5393,7 @@
       },
       "image": {
         "full": "Shaco.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Shaco.png",
         "group": "champion",
         "x": 384,
         "y": 48,
@@ -5442,7 +5442,7 @@
       },
       "image": {
         "full": "Shen.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Shen.png",
         "group": "champion",
         "x": 432,
         "y": 48,
@@ -5491,7 +5491,7 @@
       },
       "image": {
         "full": "Shyvana.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Shyvana.png",
         "group": "champion",
         "x": 0,
         "y": 96,
@@ -5541,7 +5541,7 @@
       },
       "image": {
         "full": "Singed.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Singed.png",
         "group": "champion",
         "x": 48,
         "y": 96,
@@ -5591,7 +5591,7 @@
       },
       "image": {
         "full": "Sion.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Sion.png",
         "group": "champion",
         "x": 96,
         "y": 96,
@@ -5641,7 +5641,7 @@
       },
       "image": {
         "full": "Sivir.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Sivir.png",
         "group": "champion",
         "x": 144,
         "y": 96,
@@ -5690,7 +5690,7 @@
       },
       "image": {
         "full": "Skarner.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Skarner.png",
         "group": "champion",
         "x": 192,
         "y": 96,
@@ -5740,7 +5740,7 @@
       },
       "image": {
         "full": "Sona.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Sona.png",
         "group": "champion",
         "x": 240,
         "y": 96,
@@ -5790,7 +5790,7 @@
       },
       "image": {
         "full": "Soraka.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Soraka.png",
         "group": "champion",
         "x": 288,
         "y": 96,
@@ -5840,7 +5840,7 @@
       },
       "image": {
         "full": "Swain.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Swain.png",
         "group": "champion",
         "x": 336,
         "y": 96,
@@ -5890,7 +5890,7 @@
       },
       "image": {
         "full": "Sylas.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Sylas.png",
         "group": "champion",
         "x": 384,
         "y": 96,
@@ -5940,7 +5940,7 @@
       },
       "image": {
         "full": "Syndra.png",
-        "sprite": "champion3.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Syndra.png",
         "group": "champion",
         "x": 432,
         "y": 96,
@@ -5990,7 +5990,7 @@
       },
       "image": {
         "full": "TahmKench.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/TahmKench.png",
         "group": "champion",
         "x": 0,
         "y": 0,
@@ -6040,7 +6040,7 @@
       },
       "image": {
         "full": "Taliyah.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Taliyah.png",
         "group": "champion",
         "x": 48,
         "y": 0,
@@ -6090,7 +6090,7 @@
       },
       "image": {
         "full": "Talon.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Talon.png",
         "group": "champion",
         "x": 96,
         "y": 0,
@@ -6139,7 +6139,7 @@
       },
       "image": {
         "full": "Taric.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Taric.png",
         "group": "champion",
         "x": 144,
         "y": 0,
@@ -6189,7 +6189,7 @@
       },
       "image": {
         "full": "Teemo.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Teemo.png",
         "group": "champion",
         "x": 192,
         "y": 0,
@@ -6239,7 +6239,7 @@
       },
       "image": {
         "full": "Thresh.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Thresh.png",
         "group": "champion",
         "x": 240,
         "y": 0,
@@ -6289,7 +6289,7 @@
       },
       "image": {
         "full": "Tristana.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Tristana.png",
         "group": "champion",
         "x": 288,
         "y": 0,
@@ -6339,7 +6339,7 @@
       },
       "image": {
         "full": "Trundle.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Trundle.png",
         "group": "champion",
         "x": 336,
         "y": 0,
@@ -6389,7 +6389,7 @@
       },
       "image": {
         "full": "Tryndamere.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Tryndamere.png",
         "group": "champion",
         "x": 384,
         "y": 0,
@@ -6439,7 +6439,7 @@
       },
       "image": {
         "full": "TwistedFate.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/TwistedFate.png",
         "group": "champion",
         "x": 432,
         "y": 0,
@@ -6488,7 +6488,7 @@
       },
       "image": {
         "full": "Twitch.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Twitch.png",
         "group": "champion",
         "x": 0,
         "y": 48,
@@ -6538,7 +6538,7 @@
       },
       "image": {
         "full": "Udyr.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Udyr.png",
         "group": "champion",
         "x": 48,
         "y": 48,
@@ -6588,7 +6588,7 @@
       },
       "image": {
         "full": "Urgot.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Urgot.png",
         "group": "champion",
         "x": 96,
         "y": 48,
@@ -6638,7 +6638,7 @@
       },
       "image": {
         "full": "Varus.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Varus.png",
         "group": "champion",
         "x": 144,
         "y": 48,
@@ -6688,7 +6688,7 @@
       },
       "image": {
         "full": "Vayne.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Vayne.png",
         "group": "champion",
         "x": 192,
         "y": 48,
@@ -6738,7 +6738,7 @@
       },
       "image": {
         "full": "Veigar.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Veigar.png",
         "group": "champion",
         "x": 240,
         "y": 48,
@@ -6787,7 +6787,7 @@
       },
       "image": {
         "full": "Velkoz.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Velkoz.png",
         "group": "champion",
         "x": 288,
         "y": 48,
@@ -6836,7 +6836,7 @@
       },
       "image": {
         "full": "Vex.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Vex.png",
         "group": "champion",
         "x": 336,
         "y": 48,
@@ -6885,7 +6885,7 @@
       },
       "image": {
         "full": "Vi.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Vi.png",
         "group": "champion",
         "x": 384,
         "y": 48,
@@ -6935,7 +6935,7 @@
       },
       "image": {
         "full": "Viego.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Viego.png",
         "group": "champion",
         "x": 432,
         "y": 48,
@@ -6985,7 +6985,7 @@
       },
       "image": {
         "full": "Viktor.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Viktor.png",
         "group": "champion",
         "x": 0,
         "y": 96,
@@ -7034,7 +7034,7 @@
       },
       "image": {
         "full": "Vladimir.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Vladimir.png",
         "group": "champion",
         "x": 48,
         "y": 96,
@@ -7083,7 +7083,7 @@
       },
       "image": {
         "full": "Volibear.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Volibear.png",
         "group": "champion",
         "x": 96,
         "y": 96,
@@ -7133,7 +7133,7 @@
       },
       "image": {
         "full": "Warwick.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Warwick.png",
         "group": "champion",
         "x": 144,
         "y": 96,
@@ -7183,7 +7183,7 @@
       },
       "image": {
         "full": "Xayah.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Xayah.png",
         "group": "champion",
         "x": 192,
         "y": 96,
@@ -7232,7 +7232,7 @@
       },
       "image": {
         "full": "Xerath.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Xerath.png",
         "group": "champion",
         "x": 240,
         "y": 96,
@@ -7281,7 +7281,7 @@
       },
       "image": {
         "full": "XinZhao.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/XinZhao.png",
         "group": "champion",
         "x": 288,
         "y": 96,
@@ -7331,7 +7331,7 @@
       },
       "image": {
         "full": "Yasuo.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Yasuo.png",
         "group": "champion",
         "x": 336,
         "y": 96,
@@ -7381,7 +7381,7 @@
       },
       "image": {
         "full": "Yone.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Yone.png",
         "group": "champion",
         "x": 384,
         "y": 96,
@@ -7431,7 +7431,7 @@
       },
       "image": {
         "full": "Yorick.png",
-        "sprite": "champion4.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Yorick.png",
         "group": "champion",
         "x": 432,
         "y": 96,
@@ -7481,7 +7481,7 @@
       },
       "image": {
         "full": "Yuumi.png",
-        "sprite": "champion5.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Yuumi.png",
         "group": "champion",
         "x": 0,
         "y": 0,
@@ -7531,7 +7531,7 @@
       },
       "image": {
         "full": "Zac.png",
-        "sprite": "champion5.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Zac.png",
         "group": "champion",
         "x": 48,
         "y": 0,
@@ -7581,7 +7581,7 @@
       },
       "image": {
         "full": "Zed.png",
-        "sprite": "champion5.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Zed.png",
         "group": "champion",
         "x": 96,
         "y": 0,
@@ -7630,7 +7630,7 @@
       },
       "image": {
         "full": "Ziggs.png",
-        "sprite": "champion5.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Ziggs.png",
         "group": "champion",
         "x": 144,
         "y": 0,
@@ -7679,7 +7679,7 @@
       },
       "image": {
         "full": "Zilean.png",
-        "sprite": "champion5.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Zilean.png",
         "group": "champion",
         "x": 192,
         "y": 0,
@@ -7729,7 +7729,7 @@
       },
       "image": {
         "full": "Zoe.png",
-        "sprite": "champion5.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Zoe.png",
         "group": "champion",
         "x": 240,
         "y": 0,
@@ -7779,7 +7779,7 @@
       },
       "image": {
         "full": "Zyra.png",
-        "sprite": "champion5.png",
+        "sprite": "http://ddragon.leagueoflegends.com/cdn/11.19.1/img/champion/Zyra.png",
         "group": "champion",
         "x": 288,
         "y": 0,

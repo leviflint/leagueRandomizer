@@ -1,4 +1,5 @@
 const button = document.querySelector(".button");
+const championBox = document.getElementById("championBox");
 
 const champArray = [
   "Aatrox",
@@ -20,12 +21,12 @@ const champArray = [
   "Caitlyn",
   "Camille",
   "Cassiopeia",
-  "Cho'Gath",
+  "Chogath",
   "Corki",
   "Darius",
   "Diana",
-  "Dr. Mundo",
   "Draven",
+  "DrMundo",
   "Ekko",
   "Elise",
   "Evelynn",
@@ -51,7 +52,7 @@ const champArray = [
   "Jayce",
   "Jhin",
   "Jinx",
-  "Kai'Sa",
+  "Kaisa",
   "Kalista",
   "Karma",
   "Karthus",
@@ -60,11 +61,11 @@ const champArray = [
   "Kayle",
   "Kayn",
   "Kennen",
-  "Kha'Zix",
+  "Khazix",
   "Kindred",
   "Kled",
-  "Kog'Maw",
-  "LeBlanc",
+  "KogMaw",
+  "Leblanc",
   "LeeSin",
   "Leona",
   "Lillia",
@@ -97,7 +98,7 @@ const champArray = [
   "Quinn",
   "Rakan",
   "Rammus",
-  "Rek'Sai",
+  "RekSai",
   "Rell",
   "Renekton",
   "Rengar",
@@ -137,7 +138,7 @@ const champArray = [
   "Varus",
   "Vayne",
   "Veigar",
-  "Vel'Koz",
+  "Velkoz",
   "Vex",
   "Vi",
   "Viego",
@@ -160,12 +161,33 @@ const champArray = [
   "Zyra",
 ];
 
+const clearChildren = function (element) {
+  while (element.firstChild) {
+    element.removeChild(element.lastChild);
+  }
+};
+
 button.addEventListener("click", () => {
+  clearChildren(championBox);
   fetch("champions.json")
     .then((res) => res.json())
     .then((champion) => {
-      let N = Math.floor(Math.random() * 158);
+      let N = Math.floor(Math.random() * 157);
       let randomChamp = champArray[N];
-      console.log("Output: ", champion.data.randomChamp);
+      console.log("Output: ", champion.data[randomChamp].name);
+      console.log(N);
+
+      const champAPhoto = document.createElement("img");
+      champAPhoto.classList.add("champPhoto");
+      champAPhoto.setAttribute("id", "champPhoto");
+      champAPhoto.src = champion.data[randomChamp].image.sprite;
+
+      const champAName = document.createElement("p");
+      champAName.classList.add("champName");
+      champAName.setAttribute("id", "champName");
+      champAName.innerText = champion.data[randomChamp].name;
+
+      championBox.appendChild(champAPhoto);
+      championBox.appendChild(champAName);
     });
 });
