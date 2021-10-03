@@ -189,5 +189,8 @@ button.addEventListener("click", () => {
 
       championBox.appendChild(champAPhoto);
       championBox.appendChild(champAName);
+      document.body.style.backgroundImage =
+        "url(" + champion.data[randomChamp].image.full + ")";
+      document.body.style.animation = "fadein ease .6s";
     });
 });

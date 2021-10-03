@@ -15,10 +15,22 @@
 body {
   min-height: 100vh;
   padding: 1.5rem;
-  background-color: #229aa8;
-  background-image: linear-gradient(#229aa8, #053341);
-  background-size: 100%;
+  background-color: #313131;
+  background-image: linear-gradient(#ebeaea, #001b24);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   font-family: "friz_quadrataregular", serif;
+  animation: fadein ease 0.6s;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .container {
@@ -83,6 +95,15 @@ body {
   }
 }
 
+@media only screen and (max-width: 363px) {
+  .header h1 {
+    font-size: 2em;
+  }
+  .header h2 {
+    font-size: 1em;
+  }
+}
+
 .champions {
   display: flex;
   flex-direction: column;
@@ -101,17 +122,9 @@ body {
 .champName {
   color: white;
   font-size: 2em;
+  text-shadow: 0.05em 0.05em 0 hsl(0 0% 0% / 0.7);
   text-align: center;
   animation: fadein ease 1s;
-}
-
-@keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
 }
 
 .button {
@@ -133,11 +146,41 @@ body {
   }
 }
 
-.button:hover {
-  animation: colorfade ease 1s;
+.button:active {
+  -webkit-animation: colorfade ease 0.55s;
+  -moz-animation: colorfade ease 0.55s;
+  -o-animation: colorfade ease 0.55s;
+  animation: colorfade ease 0.55s;
 }
 
 @keyframes colorfade {
+  from {
+    background-color: #c89c38;
+  }
+  to {
+    background-color: #daaa3b;
+  }
+}
+
+@-o-keyframes colorfade {
+  from {
+    background-color: #c89c38;
+  }
+  to {
+    background-color: #daaa3b;
+  }
+}
+
+@-moz-keyframes colorfade {
+  from {
+    background-color: #c89c38;
+  }
+  to {
+    background-color: #daaa3b;
+  }
+}
+
+@-webkit-keyframes colorfade {
   from {
     background-color: #c89c38;
   }
