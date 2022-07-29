@@ -15,4 +15,4 @@ This SPA is rather simple, when you click the button a random champion is select
 - CSS
 - Vanilla Javascript
 
-Live Version: https://randochampo.com
+Production: https://randochampo.com
