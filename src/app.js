@@ -15,6 +15,7 @@ const champArray = [
   "AurelionSol",
   "Azir",
   "Bard",
+  "Belveth",
   "Blitzcrank",
   "Brand",
   "Braum",
@@ -86,6 +87,7 @@ const champArray = [
   "Nautilus",
   "Neeko",
   "Nidalee",
+  "Nilah",
   "Nocturne",
   "Nunu",
   "Olaf",
@@ -100,6 +102,7 @@ const champArray = [
   "Rammus",
   "RekSai",
   "Rell",
+  "Renata",
   "Renekton",
   "Rengar",
   "Riven",
@@ -155,6 +158,7 @@ const champArray = [
   "Yuumi",
   "Zac",
   "Zed",
+  "Zeri",
   "Ziggs",
   "Zilean",
   "Zoe",
@@ -172,10 +176,10 @@ button.addEventListener("click", () => {
   fetch("champions.json")
     .then((res) => res.json())
     .then((champion) => {
-      let N = Math.floor(Math.random() * 157);
+      let N = Math.floor(Math.random() * 161);
       let randomChamp = champArray[N];
-      console.log("Output: ", champion.data[randomChamp].name);
-      console.log(N);
+      // console.log("Output: ", champion.data[randomChamp].name);
+      // console.log(N);
 
       const champAPhoto = document.createElement("img");
       champAPhoto.classList.add("champPhoto");
